@@ -1,0 +1,145 @@
+
+body {
+    background: url("images/backgraund.jpg");
+    background-attachment: scroll;
+    vertical-align: top;
+    display: table;
+}    
+
+.avatar {
+    width: 700px;
+    height: 900px;
+    margin: 128px 800px;
+    padding: 48px;
+    background-color: rgb(81 206 231 / 27%);
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 86px
+}
+
+.avatar-card-photo {
+    display: block;
+    width: 635px;
+    height: 860px;
+    margin: 0 auto;
+    border-radius: 86px
+}
+
+.avatar-card-title {
+    text-align: center;
+    font-size: 45px;
+    color: rgba(250, 245, 245, 0.92);
+}
+
+.sport {
+    width: 500px;
+    height: 550px;
+    margin: 5px 10px;
+    padding: 20px;
+    background-color: rgb(81 206 231 / 27%);
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 86px;
+}
+
+.sport-card-photo {
+    display: block;
+    width: 500px;
+    height: 400px;
+    margin: 10px auto;
+    border-radius: 86px;
+}
+
+.sport-card-title {
+    text-align: center;
+    font-size: 40px;
+    color: rgba(250, 245, 245, 0.92);
+}
+
+.hobby {
+    width: 500px;
+    height: 700px;
+    margin: -659px 925px;
+    padding: 20px;
+    background-color: rgb(81 206 231 / 27%);
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 86px;
+}
+
+.hobby-card-photo {
+    display: block;
+    width: 500px;
+    height: 400px;
+    margin: 10px auto;
+    border-radius: 86px;
+}
+
+.hobby-card-title {
+    text-align: center;
+    font-size: 40px;
+    color: hsl(0deg 0% 100% / 87%)
+}
+
+.hobby-card-subtitle {
+    text-align: center;
+    font-size: 30px;
+    color: rgba(250, 245, 245, 0.92);
+}
+
+.expierence {
+    width: 800px;
+    height: 1150px;
+    margin: 0px 1849px;
+    padding: 20px;
+    background-color: rgb(81 206 231 / 27%);
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 86px;
+}
+
+.expierence-card-photo {
+    display: block;
+    width: 700px;
+    height: 700px;
+    margin: 10px auto;
+    border-radius: 86px;
+}
+
+.expierence-card-title {
+    text-align: center;
+    font-size: 40px;
+    color: hsl(0deg 0% 100% / 87%)
+}
+
+.expierence-card-subtitle {
+    text-align: center;
+    font-size: 30px;
+    color: rgba(250, 245, 245, 0.92);
+}
+
+.education {
+    width: 600px;
+    height:700px;
+    margin: -2291px 2733px;
+    padding: 20px;
+    background-color: rgb(81 206 231 / 27%);
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 86px;
+}
+
+.education-card-photo {
+    display: block;
+    width: 500px;
+    height: 500px;
+    margin: 10px auto;
+    border-radius: 86px;
+}
+
+.education-card-title {
+    text-align: center;
+    font-size: 40px;
+    color: hsl(0deg 0% 100% / 87%)
+}
+
+.educarion-card-subtitle {
+    text-align: center;
+    font-size: 30px;
+    color: rgba(250, 245, 245, 0.92);
+}
